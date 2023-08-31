@@ -62,6 +62,7 @@ def menu():
             operation = Operation(choice)
 
             if operation == Operation.QUIT:
+                logger.info("Calculator has been closed. %s")
                 print("Calculator has been closed.")
                 break
 
