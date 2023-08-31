@@ -1,0 +1,37 @@
+# Supermarket:
+Added manager/customer - V
+Clean screen - V
+Menu - V
+List of products - V
+List of cart - V
+Add product (manager) - V
+Print products (manager) - V
+Print products (customer) - V
+Add to cart (customer) - V
+Print cart (customer) - V
+Buy cart (customer) - V
+Exit program - V
+Saving cart on exit JSON - V
+Loading products on start JSON - V
+Loading cart on start JSON (customer) - V
+Add logger - V
+
+# Calculator:
+Clean screen - V
+Plus function - V
+Minus function - V
+Multiply function - V
+Devide function - V
+Menu - V
+Add logger - V
+
+# API app:
+Clean screen - V
+Menu - V
+Print weather api - V
+Print crypto api - V
+Print sports api - V
+
+# Web Scraping:
+
+
